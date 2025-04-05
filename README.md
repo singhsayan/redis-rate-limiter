@@ -41,15 +41,15 @@ A lightweight rate-limiting service built with Node.js and Redis, containerized 
 
 **Initial Requests (Within Limit):**
 
-![Curl Loop 1](https://github.com/user-attachments/assets/dbbba16a-664d-4bcd-a98a-7a2f375a625b)
+![Curl Loop 1](<img width="815" alt="Screenshot 2025-04-05 at 10 43 26 AM" src="https://github.com/user-attachments/assets/529272b9-8b19-4b05-932f-42baa4c8148f" />)
 
 **More Requests (Exceeding Limit):**
 
-![Curl Loop 2](https://github.com/user-attachments/assets/c65b2921-6f8f-4506-bb2c-3e66dd45db3c)
+![Curl Loop 2](<img width="805" alt="Screenshot 2025-04-05 at 10 43 41 AM" src="https://github.com/user-attachments/assets/4205fd96-1d5c-48d9-aada-923d529bc959" />)
 
 **Terminal Output of Rate Limiting in Action:**
 
-![Rate Limiting Triggered](https://github.com/user-attachments/assets/b6fb66a8-7ae2-4913-8b18-3d69b0f02598)
+![Rate Limiting Triggered](<img width="846" alt="Screenshot 2025-04-05 at 10 43 49 AM" src="https://github.com/user-attachments/assets/1aa7a451-87d1-4288-b191-11b58c039927" />)
 
 ---
 
