@@ -34,11 +34,22 @@ A lightweight rate-limiting service built with Node.js and Redis, containerized 
 ## Screenshots
 
 ### Docker Containers Running
+
 ![Docker Containers](https://github.com/user-attachments/assets/72f3a080-1a2e-4225-8273-2eee5af707e6)
 
-### Curl Requests from 1 to 10 (Rate Limit Triggered After 5 Requests)
+### Curl Requests from 1 to 10 – Rate Limit Triggered After 5 Requests
+
+**Initial Requests (Within Limit):**
+
 ![Curl Loop 1](https://github.com/user-attachments/assets/dbbba16a-664d-4bcd-a98a-7a2f375a625b)
+
+**More Requests (Exceeding Limit):**
+
 ![Curl Loop 2](https://github.com/user-attachments/assets/c65b2921-6f8f-4506-bb2c-3e66dd45db3c)
+
+**Terminal Output of Rate Limiting in Action:**
+
+![Rate Limiting Triggered](https://github.com/user-attachments/assets/b6fb66a8-7ae2-4913-8b18-3d69b0f02598)
 
 ---
 
